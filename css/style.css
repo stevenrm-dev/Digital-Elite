@@ -157,7 +157,7 @@ body {
     .cabecera button {
         font-size: .8rem;
     }
-    #menu {
+    header .menu-desktop {
         display: none;
     }
     .menu-mobile {
