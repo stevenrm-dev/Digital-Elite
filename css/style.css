@@ -176,8 +176,9 @@ body {
     .menu-mobile input {
         display: none;
     }
-    .menu-mobile .btn-burger {
+    .menu-mobile label {
         margin: 5rem 2rem 0 0;
+        width: 2rem;
     }
     .menu-mobile i {
         font-family: 'FontAwesome';
